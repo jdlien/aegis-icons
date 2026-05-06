@@ -540,6 +540,14 @@
             ]
         },
         {
+            "name": "Bitbuy",
+            "filename": "icons/1_Primary/Bitbuy.svg",
+            "category": null,
+            "issuer": [
+                "Bitbuy"
+            ]
+        },
+        {
             "name": "Bitbucket",
             "filename": "icons/1_Primary/Bitbucket.svg",
             "category": null,
