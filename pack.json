@@ -5770,7 +5770,10 @@
             "filename": "icons/1_Primary/Ubiquiti.svg",
             "category": null,
             "issuer": [
-                "Ubiquiti"
+                "Ubiquiti",
+                "UI",
+                "ui.com",
+                "UniFi"
             ]
         },
         {
