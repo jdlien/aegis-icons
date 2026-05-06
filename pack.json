@@ -6678,6 +6678,16 @@
             ]
         },
         {
+            "name": "secrt",
+            "filename": "icons/1_Primary/secrt.svg",
+            "category": null,
+            "issuer": [
+                "secrt",
+                "secrt.ca",
+                "secrt.is"
+            ]
+        },
+        {
             "name": "sipgate",
             "filename": "icons/1_Primary/sipgate.svg",
             "category": null,
