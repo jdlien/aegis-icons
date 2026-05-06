@@ -3022,6 +3022,14 @@
             ]
         },
         {
+            "name": "Linear",
+            "filename": "icons/1_Primary/Linear.svg",
+            "category": null,
+            "issuer": [
+                "Linear"
+            ]
+        },
+        {
             "name": "LinkAce",
             "filename": "icons/1_Primary/LinkAce.svg",
             "category": null,
