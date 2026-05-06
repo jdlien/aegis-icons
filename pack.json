@@ -216,7 +216,9 @@
             "filename": "icons/1_Primary/Amazon.svg",
             "category": null,
             "issuer": [
-                "Amazon"
+                "Amazon",
+                "Amazon.ca",
+                "Amazon.com"
             ]
         },
         {
